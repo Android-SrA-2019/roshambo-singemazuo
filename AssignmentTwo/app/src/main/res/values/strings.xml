@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssignmentTwo</string>
+
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="draw">Draw</string>
+</resources>
